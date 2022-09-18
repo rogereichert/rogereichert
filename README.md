@@ -2,7 +2,7 @@
 
 ### About me
 I'm a student {backend, frontend and mobile} developer.
-I'm 33 years old and i'm live in Porto Alegre - RS, Brazil.
+I'm 34 years old and i'm live in Porto Alegre - RS, Brazil.
 
 Reach me out 👇
 
