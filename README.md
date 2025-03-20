@@ -1,8 +1,8 @@
 # Hi there, I'm Roger Reichert 👋
 
 ### About me
-I'm a student {backend, frontend and mobile} developer.
-I'm 34 years old and i'm live in Porto Alegre - RS, Brazil.
+I'm a student and tester software {backend, frontend and mobile} developer.
+I'm 36 years old and i'm live in Recife - PE, Brazil.
 
 Reach me out 👇
 
