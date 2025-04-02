@@ -6,10 +6,7 @@ I'm 36 years old and i'm live in Recife - PE, Brazil.
 
 Reach me out 👇
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogereichert&show_icons=true&theme=radical">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogereichert&layout=compact&langs_count=16&theme=dracula">
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
