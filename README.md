@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Full Stack | Testador de Software | Mobile Developer  
 💻 Foco em **Backend**, **Frontend** e **Mobile** com boas práticas e performance  
-📍 Recife - PE, Brasil | 📆 36 anos | 📚 Aprendizado contínuo
+📍 Recife - PE, Brasil | 📆 37 anos | 📚 Aprendizado contínuo
 
 ---
 
