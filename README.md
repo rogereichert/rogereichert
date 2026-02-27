@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Roger Reichert
 
 🎯 Desenvolvedor Full Stack | Testador de Software | Mobile Developer  
-💻 Foco em **Backend**, **Frontend** e **Mobile** com boas práticas e performance  
+💻 Foco em **Backend** e **Frontend** com boas práticas e performance  
 📍 Recife - PE, Brasil | 📆 37 anos | 📚 Aprendizado contínuo
 
 ---
@@ -11,7 +11,7 @@
 - 🔧 Desenvolvo aplicações completas, do banco de dados à interface
 - 🧪 Experiência sólida com testes automatizados e qualidade de software
 - 📈 Curioso por boas práticas de arquitetura e performance
-- 🌱 Estudando atualmente: **JS**, **CSS PURO** e **PYTHON**
+- 🌱 Estudando atualmente: **PYTHON** e **DJANGO** de framework
 - 🤝 Aberto a colaborações e projetos open source
 
 ---
@@ -20,13 +20,11 @@
 
 <div align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
